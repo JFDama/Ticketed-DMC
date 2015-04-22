@@ -1,6 +1,8 @@
 # Ticketed-DMC
 A generic educational implementation of the Ticketed Diffusion Monte Carlo algorithm in C++
 
+[![DOI](https://zenodo.org/badge/9297/JFDama/Ticketed-DMC.svg)](http://dx.doi.org/10.5281/zenodo.17001)
+
 ---
 #### Algorithm
 
